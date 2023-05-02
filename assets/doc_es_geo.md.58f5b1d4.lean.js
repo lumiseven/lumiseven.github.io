@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as o}from"./app.d26eb009.js";const A=JSON.parse('{"title":"ES 地理位置信息操作","description":"","frontmatter":{},"headers":[],"relativePath":"doc/es/geo.md","lastUpdated":1678501043000}'),l={name:"doc/es/geo.md"},p=o("",11),e=[p];function t(c,r,D,F,y,C){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{A as __pageData,u as default};
