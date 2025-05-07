@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as c,a as r}from"./app.7aa27acd.js";const S=JSON.parse('{"title":"Elasticsearch","description":"","frontmatter":{},"headers":[],"relativePath":"doc/es/index.md","lastUpdated":1678419541000}'),s={name:"doc/es/index.md"},t=r("",6),l=[t];function i(o,n,d,h,_,p){return c(),a("div",null,l)}const f=e(s,[["render",i]]);export{S as __pageData,f as default};
