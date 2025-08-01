@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.988cb848.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"doc/jvm/core_question.md","lastUpdated":1752545571000}'),o={name:"doc/jvm/core_question.md"},t=l("",1073),p=[t];function e(r,c,i,y,D,C){return a(),n("div",null,p)}const d=s(o,[["render",e]]);export{F as __pageData,d as default};
